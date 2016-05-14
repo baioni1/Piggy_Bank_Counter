@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\bin\Debug\Piggy Bank Counter Exercise 2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\bin\Debug\Piggy Bank Counter Exercise 2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\bin\Debug\Piggy Bank Counter Exercise 2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\obj\Debug\Piggy Bank Counter Exercise 2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\obj\Debug\Piggy Bank Counter Exercise 2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Piggy Bank Counter Exercise 2\Piggy Bank Counter Exercise 2\obj\Debug\Piggy Bank Counter Exercise 2.pdb
